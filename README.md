@@ -1,4 +1,4 @@
-# Your paper title
+# Multivariate Electricity Consumption Prediction with Extreme Learning Machine
 Your paper abstract here... 
 
 This repository contains resources developed within the following paper:
