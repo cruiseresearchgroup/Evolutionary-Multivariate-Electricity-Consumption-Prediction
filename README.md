@@ -25,12 +25,12 @@ Additional section.
 ## Citation
 If you use the resources presented in this repository, please cite (using the following BibTeX entry):
 ```
-@inproceedings{lastnameYearTitle,
-  title={Your paper title},
-  author={Lastname1, Author1 and Lastname2, Author2 and Lastname3, Author3 and Lastname4, Author4},
-  booktitle={Certain Conference or Venue},
-  pages={1--999},
-  year={2018},
-  organization={Springer}
+@inproceedings{song2016multivariate,
+  title={Multivariate electricity consumption prediction with extreme learning machine},
+  author={Song, Hui and Qin, A Kai and Salim, Flora D},
+  booktitle={Neural Networks (IJCNN), 2016 International Joint Conference on},
+  pages={2313--2320},
+  year={2016},
+  organization={IEEE}
 }
 ```
