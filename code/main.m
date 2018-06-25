@@ -23,3 +23,5 @@ TimWindow_scale=1:length(TimWindow);
 end
 clear DFactors DKw Randlabel
 save result
+
+% Please refer to http://www5.zzu.edu.cn/cilab/Code.htm for DMSPSO code. 
